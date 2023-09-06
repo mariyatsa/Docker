@@ -7,11 +7,11 @@ build/
 data
 gredle
 src
-build.gradle
-gradlew
-gradlew.bat
-settings.gradle
-
+files/build.gradle
+files/gradlew
+files/gradlew.bat
+files/settings.gradle
+files
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
