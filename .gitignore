@@ -12,6 +12,7 @@ files/gradlew
 files/gradlew.bat
 files/settings.gradle
 files
+gradle/wrapper
 ### IntelliJ IDEA ###
 .idea/modules.xml
 .idea/jarRepositories.xml
